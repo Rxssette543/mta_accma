@@ -1,0 +1,281 @@
+/* Fuente: Anybody */
+@font-face {
+    font-family: 'Anybody';
+    src: url('Anybody/Anybody-Black.woff2') format('woff2');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Anybody';
+    src: url('Anybody/Anybody-BlackItalic.woff2') format('woff2');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Anybody';
+    src: url('Anybody/Anybody-Bold.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Anybody';
+    src: url('Anybody/Anybody-BoldItalic.woff2') format('woff2');
+    font-weight: 700;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Anybody';
+    src: url('Anybody/Anybody-ExtraBold.woff2') format('woff2');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Anybody';
+    src: url('Anybody/Anybody-ExtraBoldItalic.woff2') format('woff2');
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Anybody';
+    src: url('Anybody/Anybody-ExtraLight.woff2') format('woff2');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Anybody';
+    src: url('Anybody/Anybody-ExtraLightItalic.woff2') format('woff2');
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Anybody';
+    src: url('Anybody/Anybody-Light.woff2') format('woff2');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Anybody';
+    src: url('Anybody/Anybody-LightItalic.woff2') format('woff2');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Anybody';
+    src: url('Anybody/Anybody-Medium.woff2') format('woff2');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Anybody';
+    src: url('Anybody/Anybody-MediumItalic.woff2') format('woff2');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Anybody';
+    src: url('Anybody/Anybody-Regular.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Anybody';
+    src: url('Anybody/Anybody-SemiBold.woff2') format('woff2');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Anybody';
+    src: url('Anybody/Anybody-SemiBoldItalic.woff2') format('woff2');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Anybody';
+    src: url('Anybody/Anybody-Thin.woff2') format('woff2');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Anybody';
+    src: url('Anybody/Anybody-ThinItalic.woff2') format('woff2');
+    font-weight: 100;
+    font-style: italic;
+}
+
+/* Fuente: Anybody Ultra Condensed */
+@font-face {
+    font-family: 'Anybody Ultra Condensed';
+    src: url('Anybody/AnybodyUltraCondensed-Black.woff2') format('woff2');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Anybody Ultra Condensed';
+    src: url('Anybody/AnybodyUltraCondensed-BlackItalic.woff2') format('woff2');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Anybody Ultra Condensed';
+    src: url('Anybody/AnybodyUltraCondensed-Bold.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Anybody Ultra Condensed';
+    src: url('Anybody/AnybodyUltraCondensed-BoldItalic.woff2') format('woff2');
+    font-weight: 700;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Anybody Ultra Condensed';
+    src: url('Anybody/AnybodyUltraCondensed-ExtraBold.woff2') format('woff2');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Anybody Ultra Condensed';
+    src: url('Anybody/AnybodyUltraCondensed-ExtraBoldItalic.woff2') format('woff2');
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Anybody Ultra Condensed';
+    src: url('Anybody/AnybodyUltraCondensed-ExtraLight.woff2') format('woff2');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Anybody Ultra Condensed';
+    src: url('Anybody/AnybodyUltraCondensed-ExtraLightItalic.woff2') format('woff2');
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Anybody Ultra Condensed';
+    src: url('Anybody/AnybodyUltraCondensed-Light.woff2') format('woff2');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Anybody Ultra Condensed';
+    src: url('AnybodyUltraCondensed-LightItalic.woff2') format('woff2');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Anybody Ultra Condensed';
+    src: url('Anybody/AnybodyUltraCondensed-Medium.woff2') format('woff2');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Anybody Ultra Condensed';
+    src: url('Anybody/AnybodyUltraCondensed-MediumItalic.woff2') format('woff2');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Anybody Ultra Condensed';
+    src: url('Anybody/AnybodyUltraCondensed-Regular.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Anybody Ultra Condensed';
+    src: url('Anybody/AnybodyUltraCondensed-SemiBold.woff2') format('woff2');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Anybody Ultra Condensed';
+    src: url('Anybody/AnybodyUltraCondensed-SemiBoldItalic.woff2') format('woff2');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Anybody Ultra Condensed';
+    src: url('Anybody/AnybodyUltraCondensed-Thin.woff2') format('woff2');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Anybody Ultra Condensed';
+    src: url('Anybody/AnybodyUltraCondensed-ThinItalic.woff2') format('woff2');
+    font-weight: 100;
+    font-style: italic;
+}
+/* Fuente: Archiv Grotesk */
+@font-face {
+    font-family: 'Archiv Grotesk';
+    src: url('ArchivGrotesk/ArchivGrotesk-Bold.otf') format('opentype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Archiv Grotesk';
+    src: url('ArchivGrotesk/ArchivGrotesk-Hairline.otf') format('opentype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Archiv Grotesk';
+    src: url('ArchivGrotesk/ArchivGrotesk-Light.otf') format('opentype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Archiv Grotesk';
+    src: url('ArchivGrotesk/ArchivGrotesk-Normal.otf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Archiv Grotesk';
+    src: url('ArchivGrotesk/ArchivGrotesk-Regular.otf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Archiv Grotesk';
+    src: url('ArchivGrotesk/ArchivGrotesk-SemiBold.otf') format('opentype');
+    font-weight: 600;
+    font-style: normal;
+}
