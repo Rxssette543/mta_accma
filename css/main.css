@@ -28,7 +28,7 @@ body {
     width: 20%;
     height: 100vh;
     padding: 30px;
-    text-align: center;
+    text-align: start;
     display: flex;
     flex-direction: row;
     font-size: 1.5rem;
@@ -50,6 +50,13 @@ body {
     font-family: 'Archiv Grotesk';
 }
 
+.cerrar-sesion {
+    color: var(--color5);
+    font-family: var(--fuentesecundaria);
+    font-weight: bold;
+}
+
+
 .container-welcome{
     display: flex;
     flex-direction: column;
@@ -65,18 +72,15 @@ body {
 
 .container-welcome > p{
     font-size: 1.6rem;
+    color: var(--color5);
 }
 
 .card-title{
     font-size: 1.4rem;
 }
 
-.numeros-end{
-    display: flex;
-    flex-direction: column;
-}
-
 .numeros{
+    color: var(--color4);
     align-items: end;
     text-align: end;
     font-size: 4rem;
