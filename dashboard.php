@@ -38,6 +38,7 @@ if (empty($_SESSION["id"])) {
                             $menuItems = [
                                 ["name" => "Dashboard", "icon" => "fas fa-tachometer-alt", "link" => "dashboard.php"],
                                 ["name" => "Alumnos", "icon" => "fas fa-user-graduate", "link" => "alumnos.php"],
+                                ["name" => "Exportar", "icon" => "fa-solid fa-file-export", "link" => "exportar.php"],
                                 ["name" => "Configuración", "icon" => "fas fa-cogs", "link" => "configuracion.php"],
                                 ["name" => "CERRAR SESIÓN", "icon" => "fa-solid fa-right-from-bracket", "link" => "controlador/logout.php"],
                             ];

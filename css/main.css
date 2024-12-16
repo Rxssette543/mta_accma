@@ -41,11 +41,6 @@ body {
     align-items: center;
 }
 
-.barra-dashboard{
-    width: 80%;
-    height: 100vh;
-}
-
 .tarjetas{
     font-family: 'Archiv Grotesk';
 }
@@ -90,6 +85,15 @@ body {
 
 .card > a{
     margin: 10px;
+}
+
+.bar-exportar{
+    font-family: var(--fuentesecundaria);
+}
+
+.bar-exportar > h1{
+    font-size: 3.4rem;
+    font-weight: bold;
 }
 
 @media screen and (max-width: 900px) {
