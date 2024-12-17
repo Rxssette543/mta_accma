@@ -24,6 +24,7 @@ body {
     color: var(--color1);
 }
 
+
 .sidebar{
     width: 20%;
     height: 100vh;
@@ -94,6 +95,35 @@ body {
 .bar-exportar > h1{
     font-size: 3.4rem;
     font-weight: bold;
+}
+
+.titulo-admin{
+    margin: 3rem;
+    font-size: 2rem;
+    font-family: var(--fuentesecundaria);
+    font-weight: bold;
+}
+
+.btn-primary{
+    color: var(--color2);
+    background-color: var(--color1);
+    border: var(--color1);
+}
+
+.btn-secondary{
+    color: var(--color2);
+    background-color: var(--color4);
+    border: var(--color4);
+}
+
+.btn-warning{
+    color: var(--color2);
+    background-color: var(--color5);
+    border: var(--color5);
+}
+
+.table > th{
+    background-color: var(--color1);
 }
 
 @media screen and (max-width: 900px) {

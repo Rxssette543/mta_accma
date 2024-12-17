@@ -23,7 +23,6 @@ if (empty($_SESSION["id"])) {
 <body>
     <div class="container-fluid">
         <div class="row">
-            <!-- Barra de navegación móvil -->
             <nav class="navbar navbar-expand-lg navbar-light bg-light d-lg-none">
                 <div class="container-fluid">
                     <a class="navbar-brand" href="dashboard.php">Dashboard mta_accma</a>
@@ -60,8 +59,6 @@ if (empty($_SESSION["id"])) {
                     </div>
                 </div>
             </nav>
-
-            <!-- Barra lateral para pantallas grandes -->
             <nav class="col-md-2 col-lg-2 d-none d-md-block bg-light sidebar">
                 <div class="position-sticky">
                     <div class="isotipo-centrado">
@@ -100,8 +97,7 @@ if (empty($_SESSION["id"])) {
                     </p>
                 </div>
                 <div class="row">
-                    <!-- Para pantallas grandes y medianas (laptops) se dividirán en 4 columnas, y en pantallas pequeñas se apilarán en 12 columnas -->
-                    <div class="col-12 col-sm-4 col-md-4 mb-3 h-100">
+                    <div class="     h-100">
                         <div class="card">
                             <div class="card-body">
                                 <h5 class="card-title">Total de personas dentro del ITMA</h5>

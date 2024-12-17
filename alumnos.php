@@ -5,8 +5,7 @@ if (empty($_SESSION["id"])) {
     header("location: alumnos.php");
 }
 
-// Obtener la fecha seleccionada, si está disponible
-$fechaSeleccionada = isset($_GET['fecha']) ? $_GET['fecha'] : date('Y-m-d'); // Si no hay fecha, usar la fecha actual
+    $fechaSeleccionada = isset($_GET['fecha']) ? $_GET['fecha'] : date('Y-m-d');
 ?>
 <!DOCTYPE html>
 <html lang="es">
@@ -26,7 +25,6 @@ $fechaSeleccionada = isset($_GET['fecha']) ? $_GET['fecha'] : date('Y-m-d'); // 
 <body>
     <div class="container-fluid">
         <div class="row">
-            <!-- Barra de navegación móvil -->
             <nav class="navbar navbar-expand-lg navbar-light bg-light d-lg-none">
                 <div class="container-fluid">
                     <a class="navbar-brand" href="dashboard.php">Dashboard mta_accma</a>
