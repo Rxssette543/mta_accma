@@ -97,7 +97,7 @@ if (empty($_SESSION["id"])) {
                     </p>
                 </div>
                 <div class="row">
-                    <div class="     h-100">
+                    <div class="col-12 col-sm-4 col-md-4 mb-3 h-100">
                         <div class="card">
                             <div class="card-body">
                                 <h5 class="card-title">Total de personas dentro del ITMA</h5>
